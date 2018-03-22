@@ -2,7 +2,6 @@
 
 It is a simple todo app built using core javascript with validations and sensible design .
 
-<br>
-
+ 
 # DEMO
 Visit the demo at https://srivinod.github.io/todo
